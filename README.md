@@ -4,3 +4,10 @@ As a development practitioner working on education-related interventions in Lowe
 Using the location coordinates, we can further use readily  available shape files of the administrative boundaries in QGIS to find which district each student belongs to. 
 
 You need to have a developer's account on Google to be able to use the APIs. Once you have registered, Google adds free credit of upto $200 into your account. You can use this credit to use their APIs (once you have exhauseted your credit, you will be charged to your credit card. If you don't wish to be charged beyond the given credit, set a limit on the number of requests sent to the server). For further details please visit Google's APIs page. 
+
+![](image3.png)
+
+
+
+
+![](image4.png)
