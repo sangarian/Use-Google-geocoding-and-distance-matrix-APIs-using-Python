@@ -129,7 +129,7 @@ for address in addresses:
 log.info("Done geocoding")
 # Write the full results to csv using the pandas library.
 df=pd.DataFrame(results)
-df.to_csv('add_lst_kps.csv', index=False, encoding='utf-8')
+df.to_csv('geocoded.csv', index=False, encoding='utf-8')
 
 
 
